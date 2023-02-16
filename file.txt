@@ -1,0 +1,4 @@
+# illegal variable
+#print = ("hello world")
+#print=helloworld")
+# 
